@@ -1,4 +1,4 @@
 # DS-Algorithms
 
 LeetCode
-https://leetcode.com/debashish271991/
+https://leetcode.com/deb27/
